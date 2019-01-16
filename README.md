@@ -130,6 +130,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [SouthparkData](https://github.com/BobAdamsEE/SouthParkData): .csv files containing script information including: season, episode, character, & line. (3.6 MB)
 
+* [Stance-Detection-Turkish-V3](https://github.com/dkucuk/Stance-Detection-Turkish-V3):contains stance annotations for 1,065 tweets in Turkish. 
+
 * [Stanford Question Answering Dataset (SQUAD 2.0)](https://rajpurkar.github.io/SQuAD-explorer/): a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
 
 *   [Stackoverflow](http://data.stackexchange.com/): 7.3 million stackoverflow questions + other stackexchanges (query tool)
