@@ -42,6 +42,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Economic News Article Tone and Relevance](https://www.crowdflower.com/data-for-everyone/): News articles judged if relevant to the US economy and, if so, what the tone of the article was. Dates range from 1951 to 2014. (12 MB)
 
+*   [Free English to Chinese Dictionary Database, ECDICT](https://github.com/skywind3000/ECDICT):英文->中文字典的双解词典数据库，根据各类考试大纲和语料库词频收录数十万条各类单词的英文和中文释义，并按照各类考试大纲和词频进行标注。
+
 *   [Enron Email Data](http://aws.amazon.com/de/datasets/enron-email-data/): consists of 1,227,255 emails with 493,384 attachments covering 151 custodians (210 GB)
 
 *   [Event Registry](http://eventregistry.org/): Free tool that gives real time access to news articles by 100.000 news publishers worldwide. [Has API](https://github.com/gregorleban/EventRegistry/). (query tool)
